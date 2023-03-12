@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/twister/static/css/main.42922016.css",
+    "main.js": "/twister/static/js/main.19273503.js",
+    "static/js/787.b2f65b82.chunk.js": "/twister/static/js/787.b2f65b82.chunk.js",
+    "static/media/logo.svg": "/twister/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/twister/index.html",
+    "main.42922016.css.map": "/twister/static/css/main.42922016.css.map",
+    "main.19273503.js.map": "/twister/static/js/main.19273503.js.map",
+    "787.b2f65b82.chunk.js.map": "/twister/static/js/787.b2f65b82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42922016.css",
+    "static/js/main.19273503.js"
+  ]
+}
